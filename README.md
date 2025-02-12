@@ -1,9 +1,9 @@
 <h1 align="center">Hi :), I'm Jose Isaac Corrales Cascante</h1>
 <h3 align="center">I'm a young guy who wants to be an entrepreneur who loves to code and make solutions to problems.</h3>
 
+<h3 align="left">Connect with me:</h3>
 - 📫 How to reach me **JCorrales.Dev@outlook.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
