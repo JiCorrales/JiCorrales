@@ -1,6 +1,5 @@
 <!-- Encabezado con presentación -->
-<h1 align="center">✨ Hi there, I'm Jose Isaac Corrales Cascante ✨</h1>
-<h3 align="center">🚀 Young aspiring entrepreneur | 💻 Developer | 🌱 Problem Solver</h3>
+<h1 align="center"> Hi there, I'm Jose Isaac Corrales Cascante </h1>
 
 ---
 
