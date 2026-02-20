@@ -4,7 +4,7 @@
 ---
 
 ## 📬 Connect with Me
-- **Email:** [jocorrales.dev@outlook.com](mailto:jcorrales.dev@outlook.com)
+- **Email:** [jocorrales.dev@outlook.com](mailto:jocorrales.dev@outlook.com)
 
 ---
 
